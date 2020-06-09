@@ -22,4 +22,4 @@
 
 * ticketUp (openTickets - 1) , (closedTickets + 1)
 
-* addIngredient (indredients.push('ham'):)
+* addIngredient (ingredients.push('ham'):)
