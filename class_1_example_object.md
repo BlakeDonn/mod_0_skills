@@ -16,10 +16,10 @@
 
 ## methods
 
-* kitchenManager: 'Blake D'
+* newManager = kitchenManager: 'Blake D'
 
-* grillOn: true
+* adjustGrill = grillOn: true
 
-* openTickets: 6 , closedTickets: 23
+* ticketUp = openTickets: 6 , closedTickets: 23
 
-* ingredients: ['romaine, 'feta', 'ranch', 'Ham']
+* addIngredient = ingredients: ['romaine, 'feta', 'ranch', 'Ham']
