@@ -12,7 +12,7 @@
 
 * openTickets (integer)
 
-* ingredients (array)
+* ingredients (array
 
 ## methods
 
@@ -22,4 +22,4 @@
 
 * ticketUp (openTickets - 1) , (closedTickets + 1)
 
-* addIngredient (indredients + '')
+* addIngredient (indredients.push(ham):)
