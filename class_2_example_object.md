@@ -14,10 +14,10 @@
 
 ## methods
 
-* waitManager: 'Blake D'
+* changeManager = waitManager: 'Blake D'
 
-* numberServers: 6
+* cutServer = numberServers: 6
 
-* roomOpen = false
+* closeRoom = roomOpen = false
 
-* specials: ['steak', 'chicken', 'broccoli', 'fish']
+* addSpecial = specials: ['steak', 'chicken', 'broccoli', 'fish']
